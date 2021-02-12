@@ -1,6 +1,6 @@
 ---
 title: "김상돈"
-image: "tobi.jpg"
+image: "logo1.jpg"
 links:
 
   - label: GitHub
@@ -11,6 +11,4 @@ output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+서울 시립대 통계대학원에 재학 중입니다. 관심 분야는 머신러닝을 이용한 bike sharing system 분석입니다. 
